@@ -1,0 +1,25 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}\else
+  \providecommand\doi[1]{\href{https://doi.org/#1}{\nolinkurl{#1}}}\fi
+
+\bibitem[Behzadian et~al.(2012)Behzadian, Otaghsara, Yazdani, and Ignatius]{behzadian2012state}
+BEHZADIAN~M, OTAGHSARA~S~K, YAZDANI~M, et~al.
+\newblock A state-of the-art survey of topsis applications\allowbreak[J].
+\newblock Expert Systems with applications, 2012, 39\penalty0 (17):\penalty0 13051-13069.
+
+\bibitem[Hanusz et~al.(2016)Hanusz, Tarasinska, and Zielinski]{hanusz2016shapiro}
+HANUSZ~Z, TARASINSKA~J, ZIELINSKI~W.
+\newblock Shapiro--wilk test with known mean\allowbreak[J].
+\newblock REVSTAT-statistical Journal, 2016, 14\penalty0 (1):\penalty0 89-100.
+
+\bibitem[何志昆\ 等(2013)何志昆, 刘光斌, 赵曦晶, and 王明昊]{何志昆2013高斯过程回归方法综述}
+何志昆, 刘光斌, 赵曦晶, 等.
+\newblock 高斯过程回归方法综述\allowbreak[J].
+\newblock 控制与决策, 2013, 28\penalty0 (8):\penalty0 1121-1129.
+
+\end{thebibliography}
